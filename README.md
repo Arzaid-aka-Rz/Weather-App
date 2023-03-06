@@ -12,7 +12,7 @@ The user interface has two tabs, one for getting weather information for the use
 * OpenWeatherMap API
 ---
 
-arzaid010103@gmail.com
+
 
 
 
