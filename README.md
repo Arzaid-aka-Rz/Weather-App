@@ -1,4 +1,4 @@
-Weather App
+<h1>weather App</h1>
 This is a simple web application that allows users to get the weather information for a particular city. It uses OpenWeatherMap API to fetch real-time weather data.
 
 Features
@@ -10,3 +10,5 @@ HTML
 CSS
 JavaScript
 OpenWeatherMap API
+
+
