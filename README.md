@@ -11,7 +11,9 @@ The user interface has two tabs, one for getting weather information for the use
 * JavaScript
 * OpenWeatherMap API
 ---
-> GitHub [@Arzaid](https://github.com/Arzaid-aka-Rz) &nbsp;&middot;&nbsp;
+
+arzaid010103@gmail.com
+
 
 
 
