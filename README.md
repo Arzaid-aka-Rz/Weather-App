@@ -11,7 +11,7 @@ The user interface has two tabs, one for getting weather information for the use
 * JavaScript
 * OpenWeatherMap API
 ---
-To view a live example, click here : https://arzaid-aka-rz.github.io/PortFolioWebsite/
+To view a live example, click here : https://arzaid-aka-rz.github.io/Weather-App/
 
 
 
